@@ -7,11 +7,6 @@ worldwide. <br />
 While many of my projects are confidential, you can check out my open-source
 contributions in the public repositories.
 
-<img
-  align="right"
-  src="https://img.shields.io/github/followers/senkoc1201?label=Follow&style=social"
-/>
-
 ## ⚡ Favorite Tech
 
 <br />
@@ -54,7 +49,7 @@ contributions in the public repositories.
         width="65"
         height="65"
       />
-      <br />React
+      <br />React  
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular"/>
