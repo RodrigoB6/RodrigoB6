@@ -37,6 +37,17 @@ contributions in the public repositories.
       <br />TypeScript
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img
+          src="https://techstack-generator.vercel.app/python-icon.svg"
+          alt="icon"
+          width="65"
+          height="65"
+        />
+      </a>
+      <br />Python
+    </td>
+    <td align="center" width="96">
       <img
         src="https://techstack-generator.vercel.app/react-icon.svg"
         alt="icon"
@@ -48,6 +59,15 @@ contributions in the public repositories.
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular"/>
       <br />Angular
+    </td>
+     <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=vue"
+        width="55"
+        height="55"
+        alt="Vue"
+      />
+      <br />Vue
     </td>
     <td align="center" width="96">
       <img
@@ -68,17 +88,6 @@ contributions in the public repositories.
       <br />C#
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img
-          src="https://techstack-generator.vercel.app/python-icon.svg"
-          alt="icon"
-          width="65"
-          height="65"
-        />
-      </a>
-      <br />Python
-    </td>
-    <td align="center" width="96">
       <img
         src="https://techstack-generator.vercel.app/django-icon.svg"
         alt="icon"
@@ -87,17 +96,17 @@ contributions in the public repositories.
       />
       <br />Django
     </td>
-    <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=vue"
-        width="48"
-        height="48"
-        alt="Vue"
-      />
-      <br />Vue
-    </td>
   </tr>
   <tr>
+  <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=laravel"
+        width="48"
+        height="48"
+        alt="Laravel"
+      />
+      <br />Laravel
+    </td>
     <td align="center" width="96">
       <img
         src="https://skillicons.dev/icons?i=wordpress"
@@ -109,30 +118,30 @@ contributions in the public repositories.
     </td>
     <td align="center" width="96">
       <img
-        src="https://techstack-generator.vercel.app/github-icon.svg"
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=postgres"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br />PostgreSQL
+    </td>
+      <td align="center" width="96">
+      <img
+        src="https://techstack-generator.vercel.app/mysql-icon.svg"
         alt="icon"
         width="65"
         height="65"
       />
-      <br />Github
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=laravel"
-        width="48"
-        height="48"
-        alt="Laravel"
-      />
-      <br />Laravel
+      <br />MySQL
     </td>
     <td align="center" width="96">
       <img
@@ -163,12 +172,32 @@ contributions in the public repositories.
     </td>
     <td align="center" width="96">
       <img
+        src="https://skillicons.dev/icons?i=sass"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+      <br />Sass
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+      <img
         src="https://skillicons.dev/icons?i=tailwind"
         width="48"
         height="48"
         alt="tailwind"
       />
       <br />Tailwind
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=mui"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br />MUI
     </td>
     <td align="center" width="96">
       <img
@@ -179,16 +208,32 @@ contributions in the public repositories.
       />
       <br />jQuery
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=mongodb"
+        src="https://skillicons.dev/icons?i=graphql"
         width="48"
         height="48"
-        alt="MongoDB"
+        alt="MySQL"
       />
-      <br />MongoDB
+      <br />GraphQL
+    </td>
+  <td align="center" width="96">
+      <img
+        src="https://techstack-generator.vercel.app/github-icon.svg"
+        alt="icon"
+        width="65"
+        height="65"
+      />
+      <br />Github
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br />Git
     </td>
     <td align="center" width="96">
       <img
@@ -198,15 +243,6 @@ contributions in the public repositories.
         alt="PHP"
       />
       <br />PHP
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://techstack-generator.vercel.app/mysql-icon.svg"
-        alt="icon"
-        width="65"
-        height="65"
-      />
-      <br />MySQL
     </td>
     <td align="center" width="96">
       <img
@@ -225,42 +261,6 @@ contributions in the public repositories.
         height="65"
       />
       <br />AWS
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=sass"
-        width="48"
-        height="48"
-        alt="Sass"
-      />
-      <br />Sass
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=graphql"
-        width="48"
-        height="48"
-        alt="MySQL"
-      />
-      <br />GraphQL
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=postgres"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br />PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=mui"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br />MUI
     </td>
   </tr>
 </table>
