@@ -259,7 +259,3 @@ contributions in the public repositories.
     </td>
   </tr>
 </table>
-
-### 🗂️ Contributions:
-
-<img class="snake-image" alt="GitHub contribution grid snake animation" src="https://github.com/Ornella-Gigante/Ornella-Gigante/blob/output/github-contribution-grid-snake.svg">
