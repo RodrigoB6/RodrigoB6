@@ -1,11 +1,9 @@
-# 👋 Welcome ! <br />
+### 👨🏻‍💻 About me
 
-I’m a results-driven software engineer with over 7 years of experience crafting
-innovative solutions. <br />
-My expertise lies in designing scalable and secure systems for clients
-worldwide. <br />
-While many of my projects are confidential, you can check out my open-source
-contributions in the public repositories.
+Senior Full-Stack Developer with 8 years of experience building fast, secure, and scalable full-stack apps using
+MERN, MEAN, and .NET Core. I've led projects across healthcare, fintech, e-commerce, and logistics—modernizing
+systems, launching platforms, and scaling to millions of users. I focus on clean architecture, great UX, and writing
+maintainable code that teams can rely on.
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <br />
